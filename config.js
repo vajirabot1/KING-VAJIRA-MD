@@ -10,17 +10,16 @@ global.email = 'sam@secktor.live'
 global.github = 'https://github.com/vajirabot1/KING-VAJIRA-MD'
 global.location = 'Sultanpur IN'
 global.gurl = 'https://instagram.com/' // add your username
-global.sudo = process.env.SUDO || '94766943622'
-global.devs = '94766943622';
-global.website = 'https://github.com/vajirabot1/KING-VAJIRA-MD' //wa.me/+25000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/fb7993e24f7ecdaecbed5.jpg'
-module.exports = {
-  botname:   process.env.BOT_NAME === undefined ? 'VAJIRA 𝐁𝐨𝐭' : process.env.BOT_NAME,
-  ownername: process.env.OWNER_NAME === undefined ? 'Vajira' : process.env.OWNER_NAME,
+global.sudo = process.env.SUDO || '923140053156'
+global.devs = '923140053156';
+global.website = 'https://github.com/vajirabot1/KING-VAJIRA-MD' //https://wa.me/+923140053156
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://i.imgur.com/GTxkEFj.jpeg'
+module.exports = {https://wa.me/+923140053156: process.env.BOT_NAME,
+  ownername: process.env.OWNER_NAME === undefined ? '𓄂≛͙⃝͙𝑴𝒓 𝑴𝒂𝒏𝒊' : process.env.OWNER_NAME,
   sessionName:  process.env.SESSION_ID === undefined ? false : process.env.SESSION_ID,
   author:  process.env.PACK_INFO.split(";")[0] === undefined ? 'vajira' : process.env.PACK_INFO.split(";")[0],
   auto_read_status :  process.env.AUTO_READ_STATUS === undefined ? false : process.env.AUTO_READ_STATUS,
-  packname:  process.env.PACK_INFO.split(";")[1] === undefined ? 'VAJIRA-Md' : process.env.PACK_INFO.split(";")[1],
+  packname:  process.env.PACK_INFO.split(";")[1] === undefined ? '𓄂≛͙⃝͙𝑴𝒓 𝑴𝒂𝒏𝒊-MD' : process.env.PACK_INFO.split(";")[1],
   autoreaction:  process.env.AUTO_REACTION  === undefined ? false : process.env.AUTO_REACTION ,
   antibadword :  process.env.ANTI_BAD_WORD === undefined ? 'nbwoed' : process.env.ANTI_BAD_WORD,
   alwaysonline:  process.env.ALWAYS_ONLINE === undefined ? false : process.env.ALWAYS_ONLINE,
@@ -43,9 +42,9 @@ module.exports = {
     API_KEY: process.env.HEROKU_API_KEY === undefined ? '' : process.env.HEROKU_API_KEY,
     APP_NAME: process.env.HEROKU_APP_NAME === undefined ? '' : process.env.HEROKU_APP_NAME
 },
-  VERSION: process.env.VERSION === undefined ? 'v.0.0.3' : process.env.VERSION,
-  LANG: process.env.THEME|| 'VAJIRA',
-  WORKTYPE: process.env.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
+  VERSION: process.𓄂≛͙⃝͙𝑴𝒓 𝑴𝒂𝒏𝒊.VERSION === undefined ? 'v.0.0.3' : process.𓄂≛͙⃝͙𝑴𝒓 𝑴𝒂𝒏𝒊.VERSION,
+  LANG: process.env.THEME|| '𓄂≛͙⃝͙𝑴𝒓 𝑴𝒂𝒏𝒊',
+  WORKTYPE: process.𓄂≛͙⃝͙𝑴𝒓 𝑴𝒂𝒏𝒊.WORKTYPE === undefined ? 'private' : process.env.WORKTYPE
 };
 
 
