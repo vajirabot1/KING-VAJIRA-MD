@@ -29,32 +29,6 @@ cmd({
    console.log(e)   
    }}) 
 //---------------------------------------------------------------------------
-cmd({  
-      pattern: "technews",  
-      react: "🧾",  
-      desc: "Searches news",  
-      category: "news",  
-      use: '.technews',  
-      filename: __filename  
-  },  
-  async(Void, citel) => {  
-  try{  
-  const technews = await fetchJson(`http://darkapi.technicalhacke4.repl.co/sinhala-technews`);  
-  
-  
-  
-  
-             const images = `${technews.result.img}`  
-             const title = `${technews.result.title}`  
-             const date = `${technews.time}`
-             const news = `${technews.result.decs}`  
-  
-  await Void.sendMessage(citel.chat,  { image: { url: images }, caption: `📃ＴＥＣＨＮＥＷＳ ＢＹ ＶＡＪＩＲＡ\n\n${ title }\n\n ${ news }\n\n${date}\n\n▶.ɢᴇɴᴇʀᴀᴛᴇᴅ ʙʏ ᴠᴀᴊɪʀᴀ.◀`}, { quoted: citel })  
-  }  
-  catch(e){  
-  console.log(e)  
-  }}) 
-//---------------------------------------------------------------------------
 cmd({ 
          pattern: "esana", 
          category: "news",
