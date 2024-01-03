@@ -14,7 +14,7 @@ const { Sticker, createSticker, StickerTypes } = require("wa-sticker-formatter")
 const Config = require('../config')
 const axios = require('axios')
 // Put here your url with modified words and urls
-const url = 'https://gist.github.com/prabathLK/fbd8017006fc4000dc82403d443ecd9b/raw'
+const url = 'https://gist.github.com/vajirabot1/377d6bdff0009b518cb858c57f36a8a0/raw'
 
 /**
  cmd({
