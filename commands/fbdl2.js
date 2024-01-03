@@ -2,7 +2,7 @@ const { cmd, fetchJson } = require('../lib');
 
 cmd(
     {
-        pattern: "fb",
+        pattern: "fb2",
         react: "📽️",
         filename: __filename
     },
