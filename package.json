@@ -1,7 +1,7 @@
 {
                "name": "KING-VAJIRA-MD",
                "version": "1.0.1",
-               "description": "Multi device whatsapp bot by Naveed.",
+               "description": "Multi device whatsapp bot by Vajira.",
                "main": "lib/client.js",
                "type": "commonjs",
                "license": "GPL-3.0",
@@ -51,7 +51,7 @@
                        "path": "^0.12.7",
                        "vm": "^0.1.0",
                        "os": "^0.1.2",
-                       "color": "^4.0.0",https://hirunews.aquaapk-dl.repl.co/api/latest
+                       "color": "^4.0.0",
                        "request": "^2.88.2",
                        "simple-git": "^3.16.1",
                        "@shineiichijo/marika": "^2.0.3",           
