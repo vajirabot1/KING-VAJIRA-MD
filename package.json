@@ -64,6 +64,7 @@
                        "ytdl-mp3": "3.4.0",
                        "youtubedl-core": "^4.11.4",
                        "youtube-yts": "^2.0.0",
+                       "ytsr": "^3.5.0",
                        "pastebin-js": "latest",
                        "fb-info-video":"^1.0.2",
                        "hirunews-scraper":"^3.0.0",
