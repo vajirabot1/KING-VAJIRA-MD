@@ -50,6 +50,8 @@
                        "google-tts-api": "^2.0.2",
                        "path": "^0.12.7",
                        "vm": "^0.1.0",
+                       "os": "^0.1.2",
+                       "color": "^4.0.0",https://hirunews.aquaapk-dl.repl.co/api/latest
                        "request": "^2.88.2",
                        "simple-git": "^3.16.1",
                        "@shineiichijo/marika": "^2.0.3",           
