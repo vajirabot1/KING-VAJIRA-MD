@@ -24,6 +24,7 @@
 
 </p>
 
+## every replit qr have an error not show play button to open qr they will fix it soon dont worry anyone 
 
 [![Scan QR CODE 1](https://i.imgur.com/ouR5zv8.jpg)](https://vajira-qrcode.vercel.app/)
 
